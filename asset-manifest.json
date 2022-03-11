@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/paginaBuscadorPais/static/css/main.68dfb844.css",
+    "main.css": "/paginaBuscadorPais/static/css/main.923d1621.css",
     "main.js": "/paginaBuscadorPais/static/js/main.543b5e6f.js",
     "index.html": "/paginaBuscadorPais/index.html",
-    "main.68dfb844.css.map": "/paginaBuscadorPais/static/css/main.68dfb844.css.map",
+    "main.923d1621.css.map": "/paginaBuscadorPais/static/css/main.923d1621.css.map",
     "main.543b5e6f.js.map": "/paginaBuscadorPais/static/js/main.543b5e6f.js.map"
   },
   "entrypoints": [
-    "static/css/main.68dfb844.css",
+    "static/css/main.923d1621.css",
     "static/js/main.543b5e6f.js"
   ]
 }
