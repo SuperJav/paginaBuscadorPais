@@ -1,0 +1,78 @@
+.contenedorcuerpo{
+    min-height: 20rem;
+}
+.tabla{
+     width: 100%;
+    border-collapse:collapse; 
+    background-color: #4fb4e2;
+}
+.cuerpo tr {
+    border-bottom: 1px solid rgba(15, 13, 13, 0.342);
+    font-size: 100%;
+    background-image: linear-gradient( 135deg, #eaf1f3 10%, #4fb4e2 100%);
+}
+.bandera{
+    width: 3em;
+}
+.header{
+    background-color: rgba(2, 61, 138, 0.932);
+    font-family: 'Patua One', cursive;
+    letter-spacing:2px;
+    color: #ade8f4;
+    font-size: 100%;
+    width: 100%;
+    box-shadow:  5px 0px 10px #000000,
+                 5px 0px 80px #000000;
+}
+.indice th{
+    padding: 1% 0%;
+    font-size: 100%;
+}
+.filaHeader{
+    background-color: rgba(27, 27, 58, 0.432);
+    color: #03045e;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100%;
+}
+.linea{
+    height: 100px;
+    background-color: black;
+}
+.list{
+    list-style:none;
+    display:grid;
+    padding: 10% 0;
+    justify-items:center;
+    align-items: flex-start;
+    margin: auto 0;
+}
+.filaHeader:hover{
+    transition: 0.5s;
+    background-image: linear-gradient( 135deg, #0077b6 10%, #03045e 100%);
+    border-width: 3px;
+    border-style:solid;
+    border-color: #03045e;
+    padding: 5%;
+    color: #90e0ef;
+    box-shadow:  50px 5px 10px #000000,
+                 5px 5px 20px #000000;
+}
+.sinRespuesta{
+    height:700px;
+    margin-bottom: -500px;
+    width: 100%;
+    padding: auto 0;
+}
+/* estilos para el icono de carga */
+.cargar{
+    width: 5rem;
+    height: 5rem;
+}
+@media only screen and (max-width: 400px)  {
+    th{
+        font-size:75%;
+    }
+    body{
+        width: 150%;
+    }
+}
