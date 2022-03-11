@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paginaBuscadorPais/static/css/main.6fb3b79c.css",
+    "main.js": "/paginaBuscadorPais/static/js/main.543b5e6f.js",
+    "index.html": "/paginaBuscadorPais/index.html",
+    "main.6fb3b79c.css.map": "/paginaBuscadorPais/static/css/main.6fb3b79c.css.map",
+    "main.543b5e6f.js.map": "/paginaBuscadorPais/static/js/main.543b5e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fb3b79c.css",
+    "static/js/main.543b5e6f.js"
+  ]
+}
