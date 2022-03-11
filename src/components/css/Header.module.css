@@ -23,7 +23,7 @@
 }
 .titulo:hover{
     color: rgba(241, 241, 250, 0.925);
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     text-decoration-line:underline;
     transition: all 0.5s linear;
 }
